@@ -10,3 +10,10 @@ github_username:  carlosviana
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+hostname: "github.com"
+pages_hostname: "carlosviana.github.io"
+language: "ruby"
+is_user_page: true
+is_project_page: false
+show_downloads: true
