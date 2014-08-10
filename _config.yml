@@ -1,8 +1,8 @@
 # Site wide configuration
 
 title:            Site Title
-locale:           en_US
-url:              http://localhost:4000
+locale:           pt-BR
+url:              http://carlosviana.github.io
 
 
 # Jekyll configuration
@@ -26,21 +26,20 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Carlos Viana
+  avatar: avatar.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: carlosviana_dev
   google:
-    plus: #username
+    plus: viana.mail@gmail.com
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: carlosviana
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
