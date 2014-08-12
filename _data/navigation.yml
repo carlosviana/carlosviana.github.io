@@ -1,7 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Sobre
+  url: /sobre/
+
+- title: Rails
+  url: /rails/
+
+- title: Front-end
+  url: /front/
 
 - title: Sample Posts
   url: /posts/
