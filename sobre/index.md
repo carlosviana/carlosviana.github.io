@@ -1,25 +1,13 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: Anotando porque? [Sobre]
+tags: [sobre, Blog]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Não há melhor aprendizado do que documentar e compartilhar informação. Participar de uma comunidade e conhecer outros desenvolvedores dá sentido a palavra "Desenvolvimento".
 
-## Minimal Mistakes is all about:
+## Quem ensina aprende duas vezes
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Estou buscando aprender Ruby on Rails entre as melhores práticas de desenvolvimento. Há muito material de consulta na internet em blog de grandes desenvolvedores que compartilham informação. Pretendo organizar minhas anotações neste blog e compartilhar meu aprendizado e o conhecimento das minhas referências nos estudos.
