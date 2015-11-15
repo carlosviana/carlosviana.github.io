@@ -1,5 +1,5 @@
 ---
 layout: rails-index
 title: Todos os Posts
-excerpt: "Posts sobre Rails"
+excerpt: "Posts sobre WPF"
 ---
