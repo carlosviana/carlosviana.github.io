@@ -1,6 +1,6 @@
-title:            Blog Title
-description:      Describe your website here.
-disqus_shortname: neohpstrtheme
+title:            Anotando C#
+description:      Anotando e aprendendo o ecosistema de desenvolvimento WPF desktop e mobile com C#.
+disqus_shortname: anotandoc
 reading_time:     true
 words_per_minute: 200
 logo:             images/logo.png
@@ -11,14 +11,14 @@ logo:             images/logo.png
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'About'
+  - title: 'Sobre'
     url: '/about'
   - title: 'Tags'
     url: '/tags'
-  - title: 'Categories'
+  - title: 'Categorias'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
+  - title: 'Favoritos'
     url: '#'
     submenu:
       - title: 'highlighter'
@@ -28,30 +28,26 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
+  name:           Carlos Viana
+  site:           http://carlosviana.github.io
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Desenvolvedor apaixonado pela condição de planejar, codificar e dar 'vida' a uma idéia personificada em um software. Métodos, linguagens e ecosistemas só são o meio do caminho, entre ele está sua paixão e um problema."
+  email:          viana.mail@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: aron_bordin
+  twitter: carlosviana_dev
   facebook:
-  github: aron-bordin
+  github: carlosviana
   stackexchange:
   linkedin:
   instagram:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +AronBordin
-  google_plus:    +yourid
+  google_plus:    +CarlosAndrédeSouzaViana
 
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://github.com/carlosviana"
 # Background image to be tiled on all pages
 background:
 
@@ -62,7 +58,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Sao_Paulo
 future:      true
 highlighter: pygments
 markdown:    kramdown
