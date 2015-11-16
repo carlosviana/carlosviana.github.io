@@ -1,16 +1,7 @@
-# Site navigation links
-
-- title: Sobre
-  url: /sobre/
-
-- title: WPF
-  url: /wpf/
-
-- title: C#
-  url: /csharp/
-
-- title: Sample Posts
-  url: /posts/
+# Menu navigation links
 
 - title: Theme Setup
   url: /theme-setup/
+
+- title: External Link
+  url: http://mademistakes.com
