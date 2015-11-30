@@ -2,33 +2,26 @@
 layout: page
 title: Sobre o Anotando C#
 image:
-  feature: abstract-10.jpg
-  credit: dargadgetz
-  creditlink: 
+  feature: fundo.jpg
 comments: true
 modified: 2015-11-16
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Este blog é conjunto das minhas anotações sobre desenvolvimento C#. 
+Parte dos conceitos e ténicas que vejo quando estudo acabam se perdendo, organizar os pensamentos em anotações é uma ótima forma de aprender e fixar meu aprendizado. Além disso, acredito que compartilhar conhecimento é a única forma verdadeira para o auto-desenvolvimento. 
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+###Abordarei aqui assuntos que fazem parte do meu trabalho, como:
 
-## What HPSTR brings to the table:
+* Linguagem C#;
+* WPF - Windows Presentetion Fundation;
+* Entity Framework;
+* Desenvolvimento Ágil.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+###Alguns sites visito com frequência e são ótimas referências de estudo.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+* [C# Corner](http://www.c-sharpcorner.com/)
+* [CodeProject ](http://www.codeproject.com/)
+* [Microsoft Class Library](https://msdn.microsoft.com/en-us/library/ff361664(v=vs.110).aspx)
 
-[^1]: Example: *domain.com/category-name/post-title*
+Vou sempre estar alimentando este bookmark com outros blogs e sites que sigo.
+
